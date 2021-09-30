@@ -1,0 +1,2 @@
+# VPS-MINING
+TESTS
